@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6e96&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcos+:%29;Tenho+19+anos+e+sou+de+BH-MG;Sou+ex-aluno+do+CEFET-MG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6e96&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luís+:%29;Tenho+19+anos+e+sou+de+BH-MG;Sou+ex-aluno+do+CEFET-MG)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisBrescia&theme=dracula" alt="estatísticas sobre o perfil LuisBrescia"/>
