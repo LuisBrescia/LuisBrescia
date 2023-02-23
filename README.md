@@ -1,4 +1,4 @@
-# :mage: Luís Brescia &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; BR
+# :mage: Luís Brescia &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; BR
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&pause=1000&color=F7F7F7&vCenter=true&width=435&height=25&lines=%C3%80+procura+de+um+est%C3%A1gio..." alt="Typing SVG" /></a>
 
 **`Técnico em Informática pelo CEFET-MG`**
