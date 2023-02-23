@@ -51,6 +51,15 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursan
 
 <details>
  <summary><h3>👨‍💻 Um pouco sobre mim...</h3></summary>
-   Conforme o tempo passa, mais me interesso por tecnologia, quando criança, amava jogos, jogava no computador da minha vó. Após um tempo, o computador foi se tornando ultrapassado, o que me levou a realizar modificações e melhorias para aumentar a performance dele, coisas como Undervolting, Overclocking, Power Draw... Me tornei aficcionado por hardware, assistindo vídeos enormes sobre o assunto por pura diversão. 
-   Chegou um momento, que alterar o hardware não era mais o suficiente, era necessário alterar arquivos do jogo também. Fui tomando gosto pela coisa, queria transformar em uma profissão. Pesquisei cursos sobre a área de tecnologia e acabei encontrando uma oportunidade no CEFET-MG com o curso de Informática.
+&ensp; Conforme o tempo passa, mais me interesso por tecnologia, quando criança, amava jogos, jogava no computador da minha vó. Após um tempo, o computador foi se tornando ultrapassado, o que me levou a realizar modificações e melhorias para aumentar a performance dele, coisas como Undervolting, Overclocking, Power Draw... Me tornei aficcionado por hardware, assistindo vídeos enormes sobre o assunto por pura diversão. <br />
+&ensp; Chegou um momento, que alterar o hardware não era mais o suficiente, era necessário alterar arquivos do jogo também. Fui tomando gosto pela coisa, queria transformar ela em uma profissão. Pesquisei sobre cursos na área de tecnologia e acabei encontrando uma oportunidade no CEFET-MG com o curso técnico de Informática. <br /> 
+&ensp; Fui aprovado, durante o curso, aprendi a mecher em inúmeras tecnologias diferentes, sejam elas frameworks, kits de desenvolvimento, linguagens de programação, sistemas operacionais, etc... Apanhei muito, sofri demais, agora estou aqui, á 360 horas de estágio de distância de pegar o meu diploma. <br />
+
+</details>
+
+#
+   
+#### 👾 Streak Stats | Typing SVG Custom | Icon Badges :&ensp;https://demolab.com   
+   
+   
 
