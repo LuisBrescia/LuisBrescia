@@ -1,4 +1,4 @@
-# :brain: Luís Brescia
+# 💪 Luís Brescia
 
 **`Técnico em Informática pelo CEFET-MG`**
 **`Futuro Engenheiro de Software`**
