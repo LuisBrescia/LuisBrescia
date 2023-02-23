@@ -47,7 +47,7 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursan
  
 <br />
 
----
+#
 
 <details>
  <summary><h3>👨‍💻 Um pouco sobre mim...</h3></summary>
