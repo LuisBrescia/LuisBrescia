@@ -9,8 +9,12 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursan
 
    <p align="left">
       <a href="https://www.linkedin.com/in/luis-felipe-brescia-a83575261/">
-         <img alt="perfil linkedin" title="Confira meu perfil no Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-       <a href="">
+         <img alt="Linkedin" title="Confira meu perfil no Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   
+   <a href="https://cefetmg-csm.symplicity.com/students/psx/profile">
+         <img alt="CEFETCarreiras" title="Confira meu perfil no CEFET Carreiras" src="https://custom-icon-badges.demolab.com/badge/CEFET Carreiras-orange.svg?logo=cefet-mg&logoColor=white&style=for-the-badge&labelColor=orange"/></a> 
+       
+   <a href="">
          <img alt="youtube views" title="Meu Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>        </a> 
    </p>
 
