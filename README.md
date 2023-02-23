@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=50&pause=1000&color=F2F76C&background=F6FF0000&multiline=true&width=435&lines=%C3%80+procura+de+um+est%C3%A1gio" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=30&pause=1000&color=F2F76C&background=F6FF0000&center=true&vCenter=true&multiline=true&width=460&height=100&lines=%C3%80+procura+de+um+est%C3%A1gio" alt="Typing SVG" /></a>
 
 # :mage: Luís Brescia
 
