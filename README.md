@@ -9,7 +9,7 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursan
    <p align="left">
       <a href="https://www.linkedin.com/in/luis-felipe-brescia-a83575261/">
          <img alt="perfil linkedin" title="Confira meu perfil no Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
+      <a href="">
          <img alt="youtube views" title="Meu Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -46,8 +46,6 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursan
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
  
 <br />
-
-#
 
 ---
 
