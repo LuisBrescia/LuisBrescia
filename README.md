@@ -14,9 +14,11 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursan
          <img alt="Whatsapp" title="Meu Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>    
    </a> 
    <a href="https://cefetmg-csm.symplicity.com/students/psx/profile">
-         <img alt="CEFETCarreiras" title="Confira meu perfil no CEFET Carreiras" src="https://custom-icon-badges.demolab.com/badge/CEFET Carreiras-orange.svg?logo=cefet-mg&logoColor=white&style=for-the-badge&labelColor=orange"/></a> 
+         <img alt="CEFETCarreiras" title="Confira meu perfil no CEFET Carreiras" src="https://custom-icon-badges.demolab.com/badge/CEFET Carreiras-orange.svg?logo=ArangoDB&logoColor=white&style=for-the-badge&labelColor="/></a>   
+   </a> 
    </p>
-
+     
+    
 ---
 
 ### :computer: Linguagens de programação
