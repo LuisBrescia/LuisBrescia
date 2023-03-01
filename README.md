@@ -62,6 +62,12 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursan
    
 #### 👾 Streak Stats | Typing SVG Custom | Icon Badges 
 >https://demolab.com   
-   
-   
 
+
+
+<p align="center">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LuisBrescia&theme=dark&hide_border=false&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D" />
+    <img src="https://streak-stats.demolab.com?user=LuisBrescia&theme=swift&hide_border=false&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D"/>
+    </picture>
+</p>
