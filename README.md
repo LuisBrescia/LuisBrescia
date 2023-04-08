@@ -72,3 +72,5 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursan
     <img src="https://streak-stats.demolab.com?user=LuisBrescia&theme=swift&hide_border=false&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D"/>
     </picture>
 </p>
+
+<img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=24292e&height=120&section=footer"/>
