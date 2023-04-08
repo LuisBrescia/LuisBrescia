@@ -56,17 +56,19 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursan
 &ensp; Conforme o tempo passa, mais me interesso por tecnologia, quando criança, amava jogos, jogava no computador da minha vó. Após um tempo, o computador foi se tornando ultrapassado, o que me levou a realizar modificações e melhorias para aumentar a performance dele, coisas como Undervolting, Overclocking, Power Draw... Me tornei aficcionado por hardware, assistindo vídeos enormes sobre o assunto por pura diversão. <br />
 &ensp; Chegou um momento, que alterar o hardware não era mais o suficiente, era necessário alterar arquivos do jogo também. Fui tomando gosto pela coisa, queria transformar ela em uma profissão. Pesquisei sobre cursos na área de tecnologia e acabei encontrando uma oportunidade no CEFET-MG com o curso técnico de Informática. <br /> 
 &ensp; Fui aprovado, durante o curso, aprendi a mecher em inúmeras tecnologias diferentes, sejam elas frameworks, kits de desenvolvimento, linguagens de programação, sistemas operacionais, etc... Apanhei muito, sofri demais, agora estou aqui, á 360 horas de estágio de distância de pegar o meu diploma. <br />
-
 </details>
 
 #
    
 #### 👾 Streak Stats | Typing SVG Custom | Icon Badges 
->https://demolab.com   
+>https://demolab.com
 
-<div align="start">  
-  <img width="56%" height="300px" src="https://github-readme-stats.vercel.app/api?username=LuisBrescia&show_icons=true&count_private=true&hide_border=true&title_color=ff9a00&icon_color=ff9a00&text_color=e6edf3&bg_color=0d1117" alt="Luís Brescia github stats" /> 
-  <img width="40%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisBrescia&layout=compact&hide_border=true&title_color=ff9a00&text_color=e6edf3&bg_color=0d1117" />
-</div>
+---
+
+<br />
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisBrescia&show_icons=true&count_private=true&hide_border=false&title_color=ff9a00&icon_color=ff9a00&text_color=e6edf3&bg_color=0d1117" alt="GitHub stats" /> 
+</p>
 
 <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=24292e&height=120&section=footer"/>
