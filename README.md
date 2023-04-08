@@ -69,5 +69,5 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursan
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=LuisBrescia&show_icons=true&count_private=true&hide_border=false&title_color=ff9a00&icon_color=ff9a00&text_color=e6edf3&bg_color=0d1117" alt="GitHub stats" /> 
-   <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=ff9a00&height=120&section=footer"/>
+   <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=e6edf3&height=100&section=footer"/>
 </p>
