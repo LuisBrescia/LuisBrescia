@@ -64,13 +64,9 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursan
 #### 👾 Streak Stats | Typing SVG Custom | Icon Badges 
 >https://demolab.com   
 
-
-
-<p align="center">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LuisBrescia&theme=dark&hide_border=false&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D" />
-    <img src="https://streak-stats.demolab.com?user=LuisBrescia&theme=swift&hide_border=false&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D"/>
-    </picture>
-</p>
+<div align="start">  
+  <img width="56%" height="300px" src="https://github-readme-stats.vercel.app/api?username=LuisBrescia&show_icons=true&count_private=true&hide_border=true&title_color=ff9a00&icon_color=ff9a00&text_color=e6edf3&bg_color=0d1117" alt="Luís Brescia github stats" /> 
+  <img width="40%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisBrescia&layout=compact&hide_border=true&title_color=ff9a00&text_color=e6edf3&bg_color=0d1117" />
+</div>
 
 <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=24292e&height=120&section=footer"/>
