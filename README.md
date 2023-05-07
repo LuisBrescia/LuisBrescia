@@ -5,7 +5,7 @@
 **`Técnico em Informática pelo CEFET-MG`**
 **`Futuro Engenheiro de Software`**
 
-Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursando agora a faculdade de Engenharia de Software na PUC Minas.
+Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursando agora o 1° período da faculdade de Engenharia de Software na PUC Minas.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/luis-felipe-brescia-a83575261/">
@@ -47,7 +47,7 @@ Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursan
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <br />
