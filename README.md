@@ -8,7 +8,7 @@
 Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursando agora o 1° período da faculdade de Engenharia de Software na PUC Minas.
 
    <p align="left">
-      <a href="https://www.linkedin.com/in/luis-felipe-brescia-a83575261/">
+      <a href="https://www.linkedin.com/in/luis-brescia/">
          <img alt="Linkedin" title="Confira meu perfil no Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://wa.me/5531981061459">
          <img alt="Whatsapp" title="Meu Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>    
