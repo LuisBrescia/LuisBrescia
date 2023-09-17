@@ -5,7 +5,7 @@
 **`Técnico em Informática pelo CEFET-MG`**
 **`Futuro Engenheiro de Software`**
 
-Estudante de 19 anos recém-formado no curso de Informática do CEFET-MG, cursando agora o 1° período da faculdade de Engenharia de Software na PUC Minas.
+Estudante de 20 anos recém-formado no curso de Informática do CEFET-MG, cursando agora o 1° período da faculdade de Engenharia de Software na PUC Minas.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/luis-brescia/">
