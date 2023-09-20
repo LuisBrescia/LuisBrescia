@@ -28,7 +28,7 @@ Estudante de 20 anos recém-formado no curso de Informática do CEFET-MG, cursan
     
 ---
 
-### :computer: Linguagens de programação
+### :computer: Desenvolvimento
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
