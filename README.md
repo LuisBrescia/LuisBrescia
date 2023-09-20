@@ -8,14 +8,21 @@
 Estudante de 20 anos recém-formado no curso de Informática do CEFET-MG, cursando agora o 1° período da faculdade de Engenharia de Software na PUC Minas.
 
    <p align="left">
+      <a href="https://luisbrescia.onrender.com">
+       <img alt="Portifolio" title="Site Portifolio" src="https://img.shields.io/badge/Portifolio-af40ff?style=for-the-badge&logo=vite&logoColor=white"/>    
+   </a>
       <a href="https://www.linkedin.com/in/luis-brescia/">
-         <img alt="Linkedin" title="Confira meu perfil no Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+         <img alt="Linkedin" title="Confira meu perfil no Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      
    <a href="https://wa.me/5531981061459">
          <img alt="Whatsapp" title="Meu Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>    
    </a> 
    <a href="https://cefetmg-csm.symplicity.com/students/psx/profile">
-         <img alt="CEFETCarreiras" title="Confira meu perfil no CEFET Carreiras" src="https://custom-icon-badges.demolab.com/badge/CEFET Carreiras-orange.svg?logo=ArangoDB&logoColor=white&style=for-the-badge&labelColor="/></a>   
-   </a> 
+         <img alt="CEFETCarreiras" title="Confira meu perfil no CEFET Carreiras" 
+         src="https://custom-icon-badges.demolab.com/badge/CEFET Carreiras-orange.svg?logo=ArangoDB&logoColor=white&style=for-the-badge&labelColor="/>
+   </a>   
+    
    </p>
      
     
