@@ -6,7 +6,7 @@
 **`Futuro Engenheiro de Software`**
 **`Desenvolvedor Vue`**
 
-Estudante de 20 anos recém-formado no curso de Informática do CEFET-MG, cursando agora o 2° período da faculdade de Engenharia de Software na PUC Minas.
+Estudante de 20 anos recém-formado no curso de Informática do CEFET-MG, cursando agora o 3° período da faculdade de Engenharia de Software na PUC Minas.
 
    <p align="left">
       <a href="https://luisbrescia.onrender.com">
