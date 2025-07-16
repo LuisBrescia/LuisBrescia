@@ -1,12 +1,12 @@
 # :mage: Luís Brescia 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&pause=1000&color=2f81f7&vCenter=true&width=435&height=25&lines=Contratado" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&pause=1000&color=2f81f7&vCenter=true&width=435&height=25&lines=Buscando vaga..." alt="Typing SVG" /></a>
 
 **`Técnico em Informática pelo CEFET-MG`**
 **`Futuro Engenheiro de Software`**
 **`Desenvolvedor Vue`**
 
-Estudante de 21 anos recém-formado no curso de Informática do CEFET-MG, cursando agora o 4° período da faculdade de Engenharia de Software na PUC Minas.
+Estudante de 22 anos formado no curso de Informática do CEFET-MG, cursando agora o 6° período da faculdade de Engenharia de Software na PUC Minas.
 
    <p align="left">
       <a href="https://luisbrescia.onrender.com">
