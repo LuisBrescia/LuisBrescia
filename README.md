@@ -9,7 +9,7 @@
 Estudante de 22 anos formado no curso de Informática do CEFET-MG, cursando agora o 6° período da faculdade de Engenharia de Software na PUC Minas.
 
    <p align="left">
-      <a href="https://luisbrescia.onrender.com">
+      <a href="https://luisbrescia.tech">
        <img alt="Portifolio" title="Site Portifolio" src="https://img.shields.io/badge/Portifolio-af40ff?style=for-the-badge&logo=vite&logoColor=white"/>    
    </a>
       <a href="https://www.linkedin.com/in/luis-brescia/">
